@@ -6,9 +6,9 @@ But first though, you'll have to use GenSMBIOS to generate an SMBIOS (by first s
 Here's how to make it bootable:
 1. Decompress Audio.zip
 2. Create a folder called "Resources"
-3. Copy the Font, Audio, Image, and Label folders into the Resources folder.
+3. Move the Font, Audio, Image, and Label folders into the Resources folder.
 4. Create a folder called "OC"
-5. Copy every folder except for the "Boot" folder into "OC"
+5. Move every folder except for the "Boot" folder into "OC"
 6. Modify the info.plist file by following the intructions above.
 
 
