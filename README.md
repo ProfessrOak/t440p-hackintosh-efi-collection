@@ -10,3 +10,6 @@ Here's how to make it bootable:
 4. Create a folder called "OC"
 5. Copy every folder except for the "Boot" folder into "OC"
 6. Modify the info.plist file by following the intructions above.
+
+
+The reason why I had to do this was because github wouldn't let me upload more than 100 files at a time, for those curious.
