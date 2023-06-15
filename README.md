@@ -5,4 +5,4 @@ Post Install:
 Use OpenCore Legacy Patcher to patch your Ventura install. This is because Apple dropped support for HD 4600 graphics with Mac OS Ventura, and unless you want a painfully
 slow experience on Mac OS, then this step is required.
 
-This repo is partially based off this [repo](github.com/valnoxy/t440p-oc)
+This repo is partially based off this [repo](https://github.com/valnoxy/t440p-oc)
