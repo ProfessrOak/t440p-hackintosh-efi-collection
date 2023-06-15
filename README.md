@@ -10,6 +10,8 @@ Here's how to make it bootable:
 4. Create a folder called "OC"
 5. Move every folder except for the "Boot" folder into "OC"
 6. Modify the info.plist file by following the intructions above.
+7. And finally, create the EFI folder itself, then drag the BOOT and OC folders into it. You should now have an EFI folder that you can use to boot MacOS Ventura.
+
 
 
 The reason why I had to do this was because github wouldn't let me upload more than 100 files at a time, for those curious.
