@@ -15,3 +15,8 @@ Here's how to make it bootable:
 
 
 The reason why I had to do this was because github wouldn't let me upload more than 100 files at a time, for those curious.
+
+
+
+*If you're using the stock trackpad and not the T450/ X1 Carbon 3rd gen trackpad, then your trackpad may not work. I haven't tested it yet with the stock trackpad.
+*You'll need to use OpenCore Legacy Patcher to first patch the installation media by clicking on "Create macOS installer", then run it again after booting into Ventura. The reason why this is required is because Ventura doesn't have any native support for HD 4600 graphics.
