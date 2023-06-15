@@ -1,0 +1,1 @@
+This Github repo is for people who want to install MacOS Ventura on their Thinkpad T440p. I couldn't find anyone else who uploaded their EFI folder for Ventura to Github, so I think I may be the first one. Enjoy!
