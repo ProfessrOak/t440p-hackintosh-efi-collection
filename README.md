@@ -3,4 +3,5 @@ Contains the efi folder necessary to boot macos sonoma 14.4+ on your thinkpad t4
 Use [OCPL](https://github.com/dortania/OpenCore-Legacy-Patcher) to make your experience usable, as sonoma doesn't support haswell igpus
 
 ACPI patches by [valnoxy](https://github.com/valnoxy)
+
 Theme used: [Flavours-FadeDisk](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-FadeDisk.zip)
