@@ -10,3 +10,4 @@ Use [OCPL](https://github.com/dortania/OpenCore-Legacy-Patcher) to make your exp
 
 ACPI patches by [valnoxy](https://github.com/valnoxy)
 
+Opencore version: 0.9.9
