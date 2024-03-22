@@ -1,4 +1,4 @@
-*Make sure to rename your EFI folder of choice to just 'EFI'! Otherwise it will not boot!*
+**Make sure to rename your EFI folder of choice to just 'EFI'! Otherwise it will not boot!**
 
 Contains various EFI folders needed to boot MacOS versions Ventura and Sonoma on your Thinkpad T440p. 
 
